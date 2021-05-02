@@ -8,7 +8,6 @@
 ![](https://img.shields.io/npm/v/npm.svg?logo=npm)
 ![](https://img.shields.io/badge/MongoDB-LTS-informational?style=flat&logo=mongodb&logoColor=green&color=green)
 ![](https://img.shields.io/badge/Node->=12.18.3-informational?style=flat&logo=node.js&logoColor=green&color=green)
-![](https://img.shields.io/badge/Node->=12.18.3-informational?style=flat&logo=node.js&logoColor=green&color=green)
 
 ---
 
