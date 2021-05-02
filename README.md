@@ -1,4 +1,4 @@
-# Node.js-MongoDB simple CRUD
+# Node.js-MongoDB REST API with simple CRUD
 
 + Made for a job interview.
 + It's a sample project.
